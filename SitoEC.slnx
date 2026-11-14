@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
   <Project Path="DocumentApi/DocumentApi.csproj" Id="84ebf239-3a6f-40c1-93c0-1ecd99c8f40d" />
   <Project Path="SitoECDocs/SitoECDocs.csproj" Id="ded6828c-3eb2-42ba-bbe3-b2252f6d18f8" />
 </Solution>

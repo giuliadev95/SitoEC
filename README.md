@@ -1,0 +1,1 @@
+﻿A Minimal API connected to a one-page website. Built to learn API structure.
